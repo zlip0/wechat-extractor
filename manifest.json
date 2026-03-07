@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "",
-  "changelog": "Initial release.",
-  "sha256": ""
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/zlip0/wechat-extractor/releases/download/v1.0.1/WeChatExtractor.exe",
+  "changelog": "Test update.",
+  "sha256": "5b7e6b51f25428470cf5e154ce2155f6778ec43c715c9d5da3b01b7676dedf3b"
 }
