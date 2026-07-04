@@ -1,0 +1,4 @@
+pywxdump
+pycryptodomex
+psutil
+zstandard

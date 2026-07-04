@@ -1,0 +1,74 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Dependency/build metadata
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# PyInstaller and packaged app outputs
+build/
+dist/
+*.manifest
+*.toc
+*.pkg
+*.pyz
+*.pyz_extracted/
+
+# Local app/update artifacts
+*.old
+*.update
+_wxext_update.bat
+
+# WeChat exports, decrypted databases, and other sensitive local data
+WeChat_Export/
+WeChat_Export*/
+exports/
+export/
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+*.db-journal
+MicroMsg.db
+MSG*.db
+MediaMSG*.db
+OpenIM*.db
+*.txt
+!README.md
+!requirements.txt
+
+# Secrets / local-only configuration
+.env
+.env.*
+*.pem
+*.key
+*.crt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
